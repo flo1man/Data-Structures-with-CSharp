@@ -1,0 +1,9 @@
+C:\Users\Stiven\Desktop\New folder\Problem02.Stack\bin\Debug\netcoreapp3.1\Problem02.Stack.deps.json
+C:\Users\Stiven\Desktop\New folder\Problem02.Stack\bin\Debug\netcoreapp3.1\Problem02.Stack.dll
+C:\Users\Stiven\Desktop\New folder\Problem02.Stack\bin\Debug\netcoreapp3.1\Problem02.Stack.pdb
+C:\Users\Stiven\Desktop\New folder\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.csprojAssemblyReference.cache
+C:\Users\Stiven\Desktop\New folder\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.AssemblyInfoInputs.cache
+C:\Users\Stiven\Desktop\New folder\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.AssemblyInfo.cs
+C:\Users\Stiven\Desktop\New folder\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.csproj.CoreCompileInputs.cache
+C:\Users\Stiven\Desktop\New folder\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.dll
+C:\Users\Stiven\Desktop\New folder\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.pdb

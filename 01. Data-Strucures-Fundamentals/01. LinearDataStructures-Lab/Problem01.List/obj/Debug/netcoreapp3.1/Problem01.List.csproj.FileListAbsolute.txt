@@ -1,0 +1,9 @@
+C:\Users\Stiven\Desktop\New folder\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.deps.json
+C:\Users\Stiven\Desktop\New folder\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.dll
+C:\Users\Stiven\Desktop\New folder\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.pdb
+C:\Users\Stiven\Desktop\New folder\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.csprojAssemblyReference.cache
+C:\Users\Stiven\Desktop\New folder\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.AssemblyInfoInputs.cache
+C:\Users\Stiven\Desktop\New folder\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.AssemblyInfo.cs
+C:\Users\Stiven\Desktop\New folder\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.csproj.CoreCompileInputs.cache
+C:\Users\Stiven\Desktop\New folder\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.dll
+C:\Users\Stiven\Desktop\New folder\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.pdb
