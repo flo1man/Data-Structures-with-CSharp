@@ -1,9 +1,0 @@
-C:\Users\Stiven\Desktop\New folder\Problem04.SinglyLinkedList\bin\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.deps.json
-C:\Users\Stiven\Desktop\New folder\Problem04.SinglyLinkedList\bin\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.dll
-C:\Users\Stiven\Desktop\New folder\Problem04.SinglyLinkedList\bin\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.pdb
-C:\Users\Stiven\Desktop\New folder\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.csprojAssemblyReference.cache
-C:\Users\Stiven\Desktop\New folder\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.AssemblyInfoInputs.cache
-C:\Users\Stiven\Desktop\New folder\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.AssemblyInfo.cs
-C:\Users\Stiven\Desktop\New folder\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.csproj.CoreCompileInputs.cache
-C:\Users\Stiven\Desktop\New folder\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.dll
-C:\Users\Stiven\Desktop\New folder\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.pdb

@@ -1,9 +1,0 @@
-C:\Users\Stiven\Desktop\New folder\Problem03.Queue\bin\Debug\netcoreapp3.1\Problem03.Queue.deps.json
-C:\Users\Stiven\Desktop\New folder\Problem03.Queue\bin\Debug\netcoreapp3.1\Problem03.Queue.dll
-C:\Users\Stiven\Desktop\New folder\Problem03.Queue\bin\Debug\netcoreapp3.1\Problem03.Queue.pdb
-C:\Users\Stiven\Desktop\New folder\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.AssemblyInfoInputs.cache
-C:\Users\Stiven\Desktop\New folder\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.AssemblyInfo.cs
-C:\Users\Stiven\Desktop\New folder\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.csproj.CoreCompileInputs.cache
-C:\Users\Stiven\Desktop\New folder\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.dll
-C:\Users\Stiven\Desktop\New folder\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.pdb
-C:\Users\Stiven\Desktop\New folder\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.csprojAssemblyReference.cache
