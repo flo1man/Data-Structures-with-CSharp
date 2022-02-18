@@ -1,2 +1,2 @@
 # Data-Structures-with-CSharp
- Data Structures Exercises and Labs 
+ Data Structures Exercises and Labs - SoftUni
